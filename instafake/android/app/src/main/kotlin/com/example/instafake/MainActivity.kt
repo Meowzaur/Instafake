@@ -1,0 +1,6 @@
+package com.example.instafake
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
